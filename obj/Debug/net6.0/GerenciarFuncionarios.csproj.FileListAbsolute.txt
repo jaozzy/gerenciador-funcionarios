@@ -1,0 +1,14 @@
+C:\Users\nobit\source\repos\GerenciarFuncionarios\bin\Debug\net6.0\GerenciarFuncionarios.exe
+C:\Users\nobit\source\repos\GerenciarFuncionarios\bin\Debug\net6.0\GerenciarFuncionarios.deps.json
+C:\Users\nobit\source\repos\GerenciarFuncionarios\bin\Debug\net6.0\GerenciarFuncionarios.runtimeconfig.json
+C:\Users\nobit\source\repos\GerenciarFuncionarios\bin\Debug\net6.0\GerenciarFuncionarios.dll
+C:\Users\nobit\source\repos\GerenciarFuncionarios\bin\Debug\net6.0\GerenciarFuncionarios.pdb
+C:\Users\nobit\source\repos\GerenciarFuncionarios\obj\Debug\net6.0\GerenciarFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nobit\source\repos\GerenciarFuncionarios\obj\Debug\net6.0\GerenciarFuncionarios.AssemblyInfoInputs.cache
+C:\Users\nobit\source\repos\GerenciarFuncionarios\obj\Debug\net6.0\GerenciarFuncionarios.AssemblyInfo.cs
+C:\Users\nobit\source\repos\GerenciarFuncionarios\obj\Debug\net6.0\GerenciarFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\nobit\source\repos\GerenciarFuncionarios\obj\Debug\net6.0\GerenciarFuncionarios.dll
+C:\Users\nobit\source\repos\GerenciarFuncionarios\obj\Debug\net6.0\refint\GerenciarFuncionarios.dll
+C:\Users\nobit\source\repos\GerenciarFuncionarios\obj\Debug\net6.0\GerenciarFuncionarios.pdb
+C:\Users\nobit\source\repos\GerenciarFuncionarios\obj\Debug\net6.0\GerenciarFuncionarios.genruntimeconfig.cache
+C:\Users\nobit\source\repos\GerenciarFuncionarios\obj\Debug\net6.0\ref\GerenciarFuncionarios.dll
